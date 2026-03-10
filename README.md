@@ -33,7 +33,7 @@ Fez sentido para o contexto da sua empresa? Se desejar, podemos detalhar como es
 Miniguia de Estudo (Entrega Final):
 - Guia TEA: https://notebooklm.google.com/notebook/92d51dbe-ff0c-4112-bbbc-8a843a0c311a
 
-- Resumo estruturado dos assuntos:
+Resumo estruturado dos assuntos:
 
 ### 1. Definição e Diagnóstico do TEA
 *   **O que é:** O Transtorno do Espectro Autista (TEA) é uma condição do neurodesenvolvimento de base neurobiológica e genética. 
@@ -61,7 +61,7 @@ Miniguia de Estudo (Entrega Final):
 *   **Trabalho Remoto:** Profissionais autistas possuem prioridade legal na alocação em vagas que permitam o regime de *home office*.
 
 
-- Um glossário com os principais conceitos aprendidos;
+Um glossário com os principais conceitos aprendidos;
 
 *   **Transtorno do Espectro Autista (TEA):** Condição do neurodesenvolvimento de base neurobiológica e genética, caracterizada por desafios na comunicação social e padrões repetitivos de comportamento.
 *   **Níveis de Suporte:** Classificação que substitui termos como "leve" ou "grave", focando na necessidade de apoio do indivíduo: Nível 1 (apoio), Nível 2 (apoio substancial) e Nível 3 (apoio muito substancial).
@@ -74,7 +74,7 @@ Miniguia de Estudo (Entrega Final):
 *   **Comunicação Alternativa e Aumentativa (CAA):** Uso de ferramentas como cartões, pranchas ou aplicativos para permitir a expressão de quem não utiliza a fala funcional.
 *   **Coocorrência:** Termo da linguagem neuroafirmativa para descrever condições que existem junto ao autismo, como TDAH, ansiedade ou depressão.
 
-- Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
+Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
 
 1.  **Fundamentos e Níveis:** "Explique os critérios fundamentais para o diagnóstico de TEA segundo o DSM-5 e descreva as diferenças de gravidade e necessidade de auxílio entre os níveis de suporte 1, 2 e 3".
 2.  **Vida Adulta e Diagnóstico:** "Quais são os principais sinais de autismo que costumam ser identificados apenas na fase adulta e como o diagnóstico tardio contribui para o processo de autoconhecimento e alívio psicológico?".
